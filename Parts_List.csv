@@ -1,0 +1,2 @@
+Manufacturer,Part Number,QTY,Package,Requires Custom,IPC Standard,Package Created,Library Name
+Trinamic,TMC SILENTSTEPSTICK,4,stepstick,Y,N,Y,IPC_MFG.pretty\stepstick.kicad_mod
