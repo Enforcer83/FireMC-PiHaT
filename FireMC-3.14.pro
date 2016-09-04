@@ -1,4 +1,4 @@
-update=8/21/2016 4:11:31 PM
+update=9/4/2016 8:41:40 AM
 version=1
 last_client=kicad
 [pcbnew]
@@ -60,3 +60,17 @@ LibName28=contrib
 LibName29=valves
 LibName30=headers
 LibName31=stepstick
+LibName32=Linear Technologies
+LibName33=Microchip Technologies
+LibName34=Maxim Integrated
+LibName35=Intersil
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=50
