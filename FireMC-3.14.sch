@@ -39,7 +39,7 @@ EELAYER 25 0
 EELAYER END
 $Descr A 11000 8500
 encoding utf-8
-Sheet 1 4
+Sheet 1 5
 Title "FireMC-3.14"
 Date ""
 Rev "-"
@@ -66,5 +66,11 @@ S 9050 5700 1100 150
 U 57C8E291
 F0 "Power" 60
 F1 "FireMC-3.14_PWR.sch" 60
+$EndSheet
+$Sheet
+S 9050 5300 1100 150 
+U 57E0F559
+F0 "Safety" 50
+F1 "FireMC-3.14_SFTY.sch" 50
 $EndSheet
 $EndSCHEMATC
