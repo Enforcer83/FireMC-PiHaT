@@ -34,6 +34,7 @@ LIBS:Linear Technologies
 LIBS:Microchip Technologies
 LIBS:Maxim Integrated
 LIBS:Intersil
+LIBS:mounting hole
 LIBS:FireMC-3.14-cache
 EELAYER 25 0
 EELAYER END
@@ -51,9 +52,9 @@ Comment4 ""
 $EndDescr
 $Sheet
 S 9050 6500 1100 150 
-U 57C93439
-F0 "Motors" 60
-F1 "FireMC-3.14_MTR.sch" 60
+U 57C8E291
+F0 "Power" 60
+F1 "FireMC-3.14_PWR.sch" 60
 $EndSheet
 $Sheet
 S 9050 6100 1100 150 
@@ -63,9 +64,9 @@ F1 "FireMC-3.14_IO.sch" 60
 $EndSheet
 $Sheet
 S 9050 5700 1100 150 
-U 57C8E291
-F0 "Power" 60
-F1 "FireMC-3.14_PWR.sch" 60
+U 57C93439
+F0 "Motors" 60
+F1 "FireMC-3.14_MTR.sch" 60
 $EndSheet
 $Sheet
 S 9050 5300 1100 150 
