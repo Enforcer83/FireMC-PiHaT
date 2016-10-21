@@ -1,4 +1,4 @@
-update=10/6/2016 7:00:49 PM
+update=10/21/2016 9:58:14 AM
 version=1
 last_client=kicad
 [pcbnew]
@@ -25,6 +25,16 @@ version=1
 NetIExt=net
 [general]
 version=1
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=50
 [eeschema]
 version=1
 LibDir=D:/Users/Jacob/Documents/Repo/Library/KiCAD/Schematic
@@ -65,13 +75,3 @@ LibName33=Microchip Technologies
 LibName34=Maxim Integrated
 LibName35=Intersil
 LibName36=mounting hole
-[schematic_editor]
-version=1
-PageLayoutDescrFile=
-PlotDirectoryName=
-SubpartIdSeparator=0
-SubpartFirstId=65
-NetFmtName=
-SpiceForceRefPrefix=0
-SpiceUseNetNumbers=0
-LabSize=50
