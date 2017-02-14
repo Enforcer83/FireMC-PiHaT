@@ -3,7 +3,7 @@
   (general
     (links 328)
     (no_connects 328)
-    (area 19.949999 49.449999 132.050001 158.050001)
+    (area 16.415475 47.763 356.316667 270.438)
     (thickness 1.6)
     (drawings 4)
     (tracks 0)
@@ -62,7 +62,7 @@
     (pad_drill 0.6)
     (pad_to_mask_clearance 0)
     (aux_axis_origin 0 0)
-    (visible_elements FFFFF77F)
+    (visible_elements 7FFFF7FF)
     (pcbplotparams
       (layerselection 0x00030_80000001)
       (usegerberextensions false)
@@ -859,7 +859,7 @@
   )
 
   (module IPC_SOP:SOP63P600X155-20N (layer F.Cu) (tedit 580CC4D4) (tstamp 580C07C8)
-    (at 82 79 90)
+    (at 198 63 90)
     (path /57C8E291/57C93C19)
     (fp_text reference U1 (at -0.05 0 180) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1547,7 +1547,7 @@
   )
 
   (module IPC_RES:RESC1608X55N (layer F.Cu) (tedit 57D36D2F) (tstamp 580C0702)
-    (at 61.5 101)
+    (at 177.5 85)
     (path /57C8E291/57CFDF27)
     (fp_text reference R7 (at 0 -1.524) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1568,7 +1568,7 @@
   )
 
   (module IPC_RES:RESC1608X55N (layer F.Cu) (tedit 57D36D2F) (tstamp 580C06FC)
-    (at 72 99)
+    (at 188 83)
     (path /57C8E291/57CADF35)
     (fp_text reference R6 (at 0 -1.524) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1589,7 +1589,7 @@
   )
 
   (module IPC_RES:RESC1608X55N (layer F.Cu) (tedit 57D36D2F) (tstamp 580C06F6)
-    (at 72 95)
+    (at 188 79)
     (path /57C8E291/57CAEAEE)
     (fp_text reference R5 (at 0 -1.524) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1610,7 +1610,7 @@
   )
 
   (module IPC_RES:RESC1608X55N (layer F.Cu) (tedit 57D36D2F) (tstamp 580C06F0)
-    (at 68.5 99)
+    (at 184.5 83)
     (path /57C8E291/57CAE1D6)
     (fp_text reference R4 (at 0 -1.524) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1631,7 +1631,7 @@
   )
 
   (module IPC_RES:RESC1608X55N (layer F.Cu) (tedit 57D36D2F) (tstamp 580C06EA)
-    (at 65 97)
+    (at 181 81)
     (path /57C8E291/57CAD9DD)
     (fp_text reference R3 (at 0 -1.524) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1652,7 +1652,7 @@
   )
 
   (module IPC_RES:RESC1608X55N (layer F.Cu) (tedit 57D36D2F) (tstamp 580C06E4)
-    (at 65 93)
+    (at 181 77)
     (path /57C8E291/57CD645B)
     (fp_text reference R2 (at 0 -1.524) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1673,7 +1673,7 @@
   )
 
   (module IPC_RES:RESC1608X55N (layer F.Cu) (tedit 57D36D2F) (tstamp 580C06DE)
-    (at 65 91)
+    (at 181 75)
     (path /57C8E291/57CD638E)
     (fp_text reference R1 (at 0 -1.524) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1824,7 +1824,7 @@
   )
 
   (module IPC_TO:TO228P972X240-3N (layer F.Cu) (tedit 57CA2E12) (tstamp 580C06B5)
-    (at 109 57.5)
+    (at 181.5 44)
     (path /57C8E291/57C93B90)
     (fp_text reference Q2 (at -1.27 0 270) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1850,7 +1850,7 @@
   )
 
   (module IPC_TO:TO228P972X240-3N (layer F.Cu) (tedit 57CA2E12) (tstamp 580C06AE)
-    (at 109 65)
+    (at 181.5 51.5)
     (path /57C8E291/57C93B13)
     (fp_text reference Q1 (at -1.27 0 270) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1876,7 +1876,7 @@
   )
 
   (module IPC_MFG:IMELLC_MH275X600NPTH (layer F.Cu) (tedit 580A5BC2) (tstamp 580C06A7)
-    (at 128.5 53)
+    (at 128.5 73)
     (path /57E0F559/580A62CB)
     (fp_text reference MH8 (at 0 -4) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1912,7 +1912,7 @@
   )
 
   (module IPC_MFG:IMELLC_MH275X600NPTH (layer F.Cu) (tedit 580A5BC2) (tstamp 580C0698)
-    (at 23.5 53)
+    (at 23.5 73)
     (path /57E0F559/580A60A7)
     (fp_text reference MH5 (at 0 -4) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1997,7 +1997,7 @@
   )
 
   (module IPC_IND:INDM1213X620N (layer F.Cu) (tedit 57D37145) (tstamp 580C0679)
-    (at 67.5 114.5)
+    (at 183.5 98.5)
     (path /57C8E291/57C940F5)
     (fp_text reference L1 (at 0 0) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2576,7 +2576,7 @@
   )
 
   (module IPC_MFG:PHEONIX_1923869 (layer F.Cu) (tedit 0) (tstamp 580C05C3)
-    (at 82 56 180)
+    (at 234.5 63.5 180)
     (path /57C8E291/57D0C291)
     (fp_text reference J2 (at 0 -2.032 180) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2599,7 +2599,7 @@
   )
 
   (module IPC_MFG:MOLEX_395321002 (layer F.Cu) (tedit 57DB29BA) (tstamp 580C05BD)
-    (at 69 56 180)
+    (at 221.5 63.5 180)
     (path /57C8E291/57D0C18A)
     (fp_text reference J1 (at 0 0 180) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2839,7 +2839,7 @@
   )
 
   (module IPC_SOD:SOD4725X100N (layer F.Cu) (tedit 57CC300C) (tstamp 580C0587)
-    (at 70 92)
+    (at 186 76)
     (path /57C8E291/57CB163D)
     (fp_text reference D1 (at 0 -2.286) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -3497,7 +3497,7 @@
   )
 
   (module IPC_CAP:CAPAE660X770N (layer F.Cu) (tedit 57CC39C6) (tstamp 580C04F7)
-    (at 77.5 95 90)
+    (at 193.5 79 90)
     (path /57C8E291/57CB3D01)
     (fp_text reference C18 (at 0 -2.032 270) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -3532,7 +3532,7 @@
   )
 
   (module IPC_CAP:CAPAE660X770N (layer F.Cu) (tedit 57CC39C6) (tstamp 580C04F1)
-    (at 77 104)
+    (at 193 88)
     (path /57C8E291/57CB3C70)
     (fp_text reference C17 (at 0 -2.032 180) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -3567,7 +3567,7 @@
   )
 
   (module IPC_CAP:CAPAE660X770N (layer F.Cu) (tedit 57CC39C6) (tstamp 580C04EB)
-    (at 67 104)
+    (at 183 88)
     (path /57C8E291/57C93DC9)
     (fp_text reference C16 (at 0 -2.032 180) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -3602,7 +3602,7 @@
   )
 
   (module IPC_CAP:CAPC1608X90N (layer F.Cu) (tedit 57D36B22) (tstamp 580C04E5)
-    (at 72 97)
+    (at 188 81)
     (path /57C8E291/57CFDFA8)
     (fp_text reference C15 (at 0 -1.524) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -3623,7 +3623,7 @@
   )
 
   (module IPC_CAP:CAPC1608X90N (layer F.Cu) (tedit 57D36B22) (tstamp 580C04DF)
-    (at 68.5 97)
+    (at 184.5 81)
     (path /57C8E291/57CAE865)
     (fp_text reference C14 (at 0 -1.524) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -3644,7 +3644,7 @@
   )
 
   (module IPC_CAP:CAPC1608X90N (layer F.Cu) (tedit 57D36B22) (tstamp 580C04D9)
-    (at 68.5 95)
+    (at 184.5 79)
     (path /57C8E291/57CAE139)
     (fp_text reference C13 (at 0 -1.524) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -3665,7 +3665,7 @@
   )
 
   (module IPC_CAP:CAPC1608X90N (layer F.Cu) (tedit 57D36B22) (tstamp 580C04D3)
-    (at 65 99)
+    (at 181 83)
     (path /57C8E291/57C94890)
     (fp_text reference C12 (at 0 -1.524) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -3686,7 +3686,7 @@
   )
 
   (module IPC_CAP:CAPC1608X90N (layer F.Cu) (tedit 57D36B22) (tstamp 580C04CD)
-    (at 87 82 180)
+    (at 239.5 89.5 180)
     (path /57C8E291/57CAD903)
     (fp_text reference C11 (at 0 -1.524 180) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -3707,7 +3707,7 @@
   )
 
   (module IPC_CAP:CAPC1608X90N (layer F.Cu) (tedit 57D36B22) (tstamp 580C04C7)
-    (at 61.5 99)
+    (at 177.5 83)
     (path /57C8E291/57CAD3D3)
     (fp_text reference C10 (at 0 -1.524) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -3728,7 +3728,7 @@
   )
 
   (module IPC_CAP:CAPC1608X90N (layer F.Cu) (tedit 57D36B22) (tstamp 580C04C1)
-    (at 61.5 97)
+    (at 177.5 81)
     (path /57C8E291/57CAD501)
     (fp_text reference C9 (at 0 -1.524) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -3749,7 +3749,7 @@
   )
 
   (module IPC_CAP:CAPC1608X90N (layer F.Cu) (tedit 57D36B22) (tstamp 580C04BB)
-    (at 61.5 95)
+    (at 177.5 79)
     (path /57C8E291/57CAD57B)
     (fp_text reference C8 (at 0 -1.524) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -3770,7 +3770,7 @@
   )
 
   (module IPC_CAP:CAPC1608X90N (layer F.Cu) (tedit 57D36B22) (tstamp 580C04B5)
-    (at 61.5 93)
+    (at 177.5 77)
     (path /57C8E291/57C93CC7)
     (fp_text reference C7 (at 0 -1.524) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -3791,7 +3791,7 @@
   )
 
   (module IPC_CAP:CAPC1608X95N (layer F.Cu) (tedit 57D36981) (tstamp 580C04AF)
-    (at 61.5 91)
+    (at 177.5 75)
     (path /57C8E291/57C945CD)
     (fp_text reference C6 (at 0 -1.524) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -3812,7 +3812,7 @@
   )
 
   (module IPC_CAP:CAPC1608X95N (layer F.Cu) (tedit 57D36981) (tstamp 580C04A9)
-    (at 84 71.5)
+    (at 236.5 79)
     (path /57C8E291/57D48920)
     (fp_text reference C5 (at 0 -1.524) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -3833,7 +3833,7 @@
   )
 
   (module IPC_CAP:CAPC1608X95N (layer F.Cu) (tedit 57D36981) (tstamp 580C04A3)
-    (at 84 69.5)
+    (at 236.5 77)
     (path /57C8E291/57D48846)
     (fp_text reference C4 (at 0 -1.524) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -3854,7 +3854,7 @@
   )
 
   (module IPC_CAP:CAPC1608X95N (layer F.Cu) (tedit 57D36981) (tstamp 580C049D)
-    (at 84 67.5)
+    (at 236.5 75)
     (path /57C8E291/57CAFFD8)
     (fp_text reference C3 (at 0 -1.524) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -3875,7 +3875,7 @@
   )
 
   (module IPC_CAP:CAPC1608X95N (layer F.Cu) (tedit 57D36981) (tstamp 580C0497)
-    (at 84 65.5)
+    (at 236.5 73)
     (path /57C8E291/57CB0064)
     (fp_text reference C2 (at 0 -1.524) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -3896,7 +3896,7 @@
   )
 
   (module IPC_CAP:CAPC1608X95N (layer F.Cu) (tedit 57D36981) (tstamp 580C0491)
-    (at 84 63.5)
+    (at 236.5 71)
     (path /57C8E291/57CB00C3)
     (fp_text reference C1 (at 0 -1.524) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -3916,9 +3916,9 @@
       (net 2 GND))
   )
 
-  (gr_line (start 20 49.5) (end 20 158) (angle 90) (layer Edge.Cuts) (width 0.1))
-  (gr_line (start 132 49.5) (end 20 49.5) (angle 90) (layer Edge.Cuts) (width 0.1))
-  (gr_line (start 132 158) (end 132 49.5) (angle 90) (layer Edge.Cuts) (width 0.1))
+  (gr_line (start 132 158) (end 132 69.5) (angle 90) (layer Edge.Cuts) (width 0.1))
+  (gr_line (start 20 158) (end 20 69.5) (angle 90) (layer Edge.Cuts) (width 0.1))
+  (gr_line (start 132 69.5) (end 20 69.5) (angle 90) (layer Edge.Cuts) (width 0.1))
   (gr_line (start 20 158) (end 132 158) (angle 90) (layer Edge.Cuts) (width 0.1))
 
 )

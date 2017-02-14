@@ -1,4 +1,4 @@
-update=11/23/2016 5:30:25 AM
+update=2/10/2017 10:59:19 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -27,7 +27,7 @@ NetIExt=net
 version=1
 [eeschema]
 version=1
-LibDir=D:/Users/Jacob/Documents/Repo/Library/KiCAD/Schematic
+LibDir=../Library/KiCAD/Schematic
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -65,13 +65,15 @@ LibName33=Microchip Technologies
 LibName34=Maxim Integrated
 LibName35=Intersil
 LibName36=mounting hole
+LibName37=TI
+LibName38=power_transistors
 [schematic_editor]
 version=1
 PageLayoutDescrFile=
 PlotDirectoryName=
 SubpartIdSeparator=0
 SubpartFirstId=65
-NetFmtName=
+NetFmtName=Pcbnew
 SpiceForceRefPrefix=0
 SpiceUseNetNumbers=0
 LabSize=50

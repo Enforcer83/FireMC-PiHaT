@@ -35,6 +35,8 @@ LIBS:Microchip Technologies
 LIBS:Maxim Integrated
 LIBS:Intersil
 LIBS:mounting hole
+LIBS:TI
+LIBS:power_transistors
 LIBS:FireMC-3.14-cache
 EELAYER 25 0
 EELAYER END
