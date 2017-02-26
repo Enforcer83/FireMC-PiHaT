@@ -12,10 +12,10 @@ LIBS:memory
 LIBS:xilinx
 LIBS:microcontrollers
 LIBS:dsp
-LIBS:microchip
+LIBS:Microchip Technologies
 LIBS:analog_switches
 LIBS:motorola
-LIBS:texas
+LIBS:TI
 LIBS:intel
 LIBS:audio
 LIBS:interface
@@ -31,11 +31,9 @@ LIBS:valves
 LIBS:headers
 LIBS:stepstick
 LIBS:Linear Technologies
-LIBS:Microchip Technologies
 LIBS:Maxim Integrated
 LIBS:Intersil
 LIBS:mounting hole
-LIBS:TI
 LIBS:power_transistors
 LIBS:FireMC-3.14-cache
 EELAYER 25 0

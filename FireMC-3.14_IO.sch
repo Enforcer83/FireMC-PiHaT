@@ -12,10 +12,10 @@ LIBS:memory
 LIBS:xilinx
 LIBS:microcontrollers
 LIBS:dsp
-LIBS:microchip
+LIBS:Microchip Technologies
 LIBS:analog_switches
 LIBS:motorola
-LIBS:texas
+LIBS:TI
 LIBS:intel
 LIBS:audio
 LIBS:interface
@@ -31,11 +31,9 @@ LIBS:valves
 LIBS:headers
 LIBS:stepstick
 LIBS:Linear Technologies
-LIBS:Microchip Technologies
 LIBS:Maxim Integrated
 LIBS:Intersil
 LIBS:mounting hole
-LIBS:TI
 LIBS:power_transistors
 LIBS:FireMC-3.14-cache
 EELAYER 25 0
@@ -440,17 +438,6 @@ F 1 "GND" H 4600 7500 50  0000 C CNN
 F 2 "" H 4600 7650 50  0000 C CNN
 F 3 "" H 4600 7650 50  0000 C CNN
 	1    4600 7650
-	1    0    0    -1  
-$EndComp
-$Comp
-L MCP23S17 U3
-U 1 1 57D1D763
-P 8900 5200
-F 0 "U3" H 9150 6150 50  0000 R CNN
-F 1 "MCP23S17" H 8900 4250 50  0000 C CNN
-F 2 "IPC_SOIC127P:SOIC127P1030X265-28N" H 8450 4550 50  0001 C CNN
-F 3 "" H 8450 4550 50  0000 C CNN
-	1    8900 5200
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -865,4 +852,15 @@ Wire Wire Line
 	3700 3000 4300 3000
 Wire Wire Line
 	2400 1800 3000 1800
+$Comp
+L MCP23S17 U?
+U 1 1 58B3320A
+P 8900 5200
+F 0 "U?" H 9150 6150 50  0000 R CNN
+F 1 "MCP23S17" H 8900 4250 50  0000 C CNN
+F 2 "" H 8450 4550 50  0000 C CNN
+F 3 "" H 8450 4550 50  0000 C CNN
+	1    8900 5200
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
